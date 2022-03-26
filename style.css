@@ -399,3 +399,14 @@ h3{
 .fa-heart-o{
     color: #f44336;
 }
+
+#canvas{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100vw;
+    heigth:100vh;
+    margin:0;
+    background-position:center;
+    z-index :-1;
+}
